@@ -15,3 +15,7 @@ The machine killed multiple people due to issues, including but not limited to:
 - Cryptic error messages
 
 If you've already taken OS and haven't read this paper, you should read this. This paper put into perspective for me (and probably will for you too) how serious it is to create sound software is in certain scenarios.
+
+### Venetia's Comment
+
+Wow I've taken OS and have never read this paper. Will def read it.
