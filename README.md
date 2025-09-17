@@ -6,7 +6,7 @@
 
 This article was assigned reading in my Operating Systems class with Professor Walfish. It's a very interesting case study on the Therac-25 system — a computer-controlled radiation therapy machine produced by Atomic Energy of Canada Limited.
 
-The machine killed multiple people due to critical issues, including but not limited to:
+The machine killed multiple people due to issues, including but not limited to:
 
 - Lack of governmental regulations
 - Race conditions
