@@ -15,3 +15,11 @@ The machine killed multiple people due to issues, including but not limited to:
 - Cryptic error messages
 
 If you've already taken OS and haven't read this paper, you should read this. This paper put into perspective for me (and probably will for you too) how serious it is to create sound software is in certain scenarios.
+
+## Additional Perspective from Eslem
+
+I found this article particularly insightful, I already read this paper for my OS class. I believe this is a great example to show consequinces of irresponsible and inconsidered work.
+
+- **Your Name**: Eslem Varank
+- **Date**: 09/16/2025
+=======
